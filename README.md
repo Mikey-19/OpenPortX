@@ -66,8 +66,14 @@ The OpenPortX interface allows you to:
  Screenshots
  
 Below are placeholder sections for screenshots of the tool in action. You can replace them with actual images after running the tool.
+
 • Main Window
+
 • Scan Results in Dark Mode
+
 • Scan Results in Light Mode
+
  License
+ 
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
+
