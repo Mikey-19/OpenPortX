@@ -33,7 +33,7 @@ OpenPortX is a modern and intuitive port scanner built with Python and PyQt5. It
 4. Navigate into the folder:
    
    ```bash
-   cd OpenPortX
+   cd Port-Scanner
    ```
    
 7. Install dependencies:
@@ -44,7 +44,7 @@ OpenPortX is a modern and intuitive port scanner built with Python and PyQt5. It
  
 Run the tool using the command:
 ```bash
-python port_scanner_gui.py
+python port-scanner-gui.py
 ```
    
    
@@ -68,14 +68,21 @@ The OpenPortX interface allows you to:
 Below are placeholder sections for screenshots of the tool in action. You can replace them with actual images after running the tool.
 
 • Results
+
 ![Port Scan Result](Port-Scanner/port_scan_results%20in%20Excel.png)
+
 • Scan Results in Dark Mode
+
 ![Port Scan dark](Port-Scanner/Port-Scanner%20dark.png)
 
 • Scan Results in Light Mode
+
 ![Port Scan light](Port-Scanner/Port-Scanner%20light.png)
  
  License
  
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
 
+Author
+
+Developed by Michael Aryee as part of a cybersecurity internship project at Inlighn Tech.
