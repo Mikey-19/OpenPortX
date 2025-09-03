@@ -70,10 +70,10 @@ Below are placeholder sections for screenshots of the tool in action. You can re
 • Results
 ![Port Scan Result](Port-Scanner/port_scan_results%20in%20Excel.png)
 • Scan Results in Dark Mode
-![Port Scan dark](Port-Scanner/Port-Scanner%dark.png)
+![Port Scan dark](Port-Scanner/Port-Scanner%20dark.png)
 
 • Scan Results in Light Mode
-![Port Scan light](Port-Scanner/Port-Scanner%light.png)
+![Port Scan light](Port-Scanner/Port-Scanner%20light.png)
  License
  
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
