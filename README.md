@@ -65,8 +65,7 @@ The OpenPortX interface allows you to:
 
  Screenshots
  
-Below are placeholder sections for screenshots of the tool in action. You can replace them with actual images after running the tool.
-
+Below are placeholder sections for screenshots of the tool in action. 
 • Results
 
 ![Port Scan Result](Port-Scanner/port_scan_results%20in%20Excel.png)
