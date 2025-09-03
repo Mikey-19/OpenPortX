@@ -74,6 +74,7 @@ Below are placeholder sections for screenshots of the tool in action. You can re
 
 • Scan Results in Light Mode
 ![Port Scan light](Port-Scanner/Port-Scanner%20light.png)
+ 
  License
  
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
