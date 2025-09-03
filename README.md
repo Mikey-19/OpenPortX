@@ -26,9 +26,7 @@ OpenPortX is a modern and intuitive port scanner built with Python and PyQt5. It
  Installation
  
 1. Clone the repository:
-   
-   ```git clone https://github.com/Mikey-19/OpenPortX
-   ```
+   ```git clone https://github.com/Mikey-19/OpenPortX```
    
 4. Navigate into the folder:
    
