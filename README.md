@@ -67,8 +67,8 @@ The OpenPortX interface allows you to:
  
 Below are placeholder sections for screenshots of the tool in action. You can replace them with actual images after running the tool.
 
-• Main Window
-
+• Results
+![Dark-Mode](Port-Scanner/port_scan_results in Excel.png)
 • Scan Results in Dark Mode
 
 • Scan Results in Light Mode
